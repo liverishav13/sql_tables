@@ -1,0 +1,7 @@
+Key_stat,Android,iOS
+Launch Date,January 14, 2020,November 13, 2019
+Total downloads,~1 million,-
+Monthly downloads,~148000,~76000
+Monthly downloaded growth,~14.70%,~3.80%
+Rating reviews,4.7 out of 5,4.8 out of 5
+Total review votes,~69300,~13600

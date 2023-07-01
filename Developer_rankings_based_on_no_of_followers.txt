@@ -1,0 +1,10 @@
+#1,Linus Torvalds,169483,7,2011
+#2,Evan You,87847,182,2020
+#3,dan,78359,262,2011
+#4,Ruan YiFeng,73163,67,2011
+#5,Jake Wharton,64052,125,2009
+#6,稚晖,62520,54,2015
+#7,Brad Traversy,59407,253,2013
+#8,Gustavo Guanabara,54245,5,2014
+#9,Sindre Sorhus,52244,1063,2009
+#10,TJ Holowaychuk,48819,296,2008

@@ -1,0 +1,10 @@
+#1,datasharing,241920,None,The Leek group guide to data sharing
+#2,ProgrammingAssignment2,141583,R,Repository for Programming Assignment 2 for R Programming on Coursera
+#3,Spoon-Knife,131031,HTML,This repo is for demonstration purposes only.
+#4,SmartThingsPublic,91345,Groovy,SmartThings open-source DeviceType Handlers and SmartApps code
+#5,tensorflow,87476,C++,An Open Source Machine Learning Framework for Everyone
+#6,gitignore,79890,None,A collection of useful gitignore templates
+#7,bootstrap,77550,JavaScript,The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+#8,Complete-Python-3-Bootcamp,75086,Jupyter Notebook,Course Files for Complete Python 3 Bootcamp Course on Udemy
+#9,cgm-remote-monitor,67364,JavaScript,nightscout web monitor
+#10,coding-interview-university,63945,None,A complete computer science study plan to become a software engineer.

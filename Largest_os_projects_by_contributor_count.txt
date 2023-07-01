@@ -1,0 +1,10 @@
+#1,microsoft/vscode,~19,800
+#2,home-assistant/core,~13,500
+#3,flutter/futter,~12,400
+#4,MicrosoftDocs/azure-docs,~12,300
+#5,microsoft/PowerToys,~7,500
+#6,vercel/next.js,~5,900
+#7,Nix0s/nixpkgs,~4,800
+#8,microsoft/TypeScript,~4,560
+#9,mui/materia-ui,~4,530
+#10,tensorflow/tensorflow,~4,400

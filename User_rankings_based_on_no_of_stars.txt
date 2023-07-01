@@ -1,0 +1,10 @@
+#1,sindresorhus,669516
+#2,donnemartin,287961
+#3,kamranahmedse,287076
+#4,996icu,264424
+#5,jwasham,250131
+#6,trekhleb,201498
+#7,getify,190931
+#8,CyC2018,163688
+#9,justjavac,162858
+#10,vinta,151221

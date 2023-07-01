@@ -1,0 +1,10 @@
+#1,Microsoft,1966824
+#2,Google,1581748
+#3,Facebook,937764
+#4,Apache,870199
+#5,Alibaba,677640
+#6,Vuejs,545773
+#7,Tencent,442023
+#8,TensorFlow,436298
+#9,GitHub,435699
+#10,FacebookSearch,427755

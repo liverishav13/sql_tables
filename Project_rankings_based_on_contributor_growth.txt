@@ -1,0 +1,8 @@
+#1,home-assistant/core,~3,340
+#2,microsoft/PowerToys,~2,240
+#3,remix-run/remix,~1,920
+#4,dotnet/maui,~1,770
+#5,microsoft/playwright,~1,690
+#6,HashLips/haslips_art_engine,~1,620
+#7,keycloak/keycloak,~1,610
+#8,metaplex-foundation/metaplex,~1,440

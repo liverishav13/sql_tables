@@ -1,0 +1,10 @@
+#1,freeCodeCamp/freeCodeCamp,356672
+#2,996icu/996.ICU,264424
+#3,EbookFoundation/free-programming-books,254033
+#4,jwasham/coding-interview-university,238399
+#5,sindresorhus/awesome,225470
+#6,kamranahmedse/developer-roadmap,217376
+#7,donnemartin/system-design-primer,202708
+#8,vuejs/vue,200533
+#9,facebook/react,197380
+#10,tensorflow/tensorflow,168955
